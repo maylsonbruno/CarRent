@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CarRent.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarRent.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\Acessonegado.png",
+      "PackagePath": "staticwebassets\\images\\Acessonegado.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\admin02.png",
+      "PackagePath": "staticwebassets\\images\\admin02.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\audio.png",
+      "PackagePath": "staticwebassets\\images\\audio.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\audio_formatado.jpg",
+      "PackagePath": "staticwebassets\\images\\audio_formatado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\bmw-320i_formatada.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-320i_formatada.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\bmw-m4-3169357_640.jpg",
+      "PackagePath": "staticwebassets\\images\\bmw-m4-3169357_640.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\cadilac.jpg",
+      "PackagePath": "staticwebassets\\images\\cadilac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\camaro_formatado.jpg",
+      "PackagePath": "staticwebassets\\images\\camaro_formatado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\carrolayout.avif",
+      "PackagePath": "staticwebassets\\images\\carrolayout.avif"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\ferrari.png",
+      "PackagePath": "staticwebassets\\images\\ferrari.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\fiat_formatado.jpg",
+      "PackagePath": "staticwebassets\\images\\fiat_formatado.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\file.png",
+      "PackagePath": "staticwebassets\\images\\file.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\goldcar.jpg",
+      "PackagePath": "staticwebassets\\images\\goldcar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\lamborguini.png",
+      "PackagePath": "staticwebassets\\images\\lamborguini.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\login_12795764.png",
+      "PackagePath": "staticwebassets\\images\\login_12795764.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\luxus.jpg",
+      "PackagePath": "staticwebassets\\images\\luxus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\maserati.jpg",
+      "PackagePath": "staticwebassets\\images\\maserati.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\mercedes.jpg",
+      "PackagePath": "staticwebassets\\images\\mercedes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\porsche.png",
+      "PackagePath": "staticwebassets\\images\\porsche.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\register.png",
+      "PackagePath": "staticwebassets\\images\\register.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\full\\source\\repos\\CarRent\\CarRent\\wwwroot\\reports\\CarrosCategoria.frx",
+      "PackagePath": "staticwebassets\\reports\\CarrosCategoria.frx"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarRent.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarRent.props",
+      "PackagePath": "build\\CarRent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarRent.props",
+      "PackagePath": "buildMultiTargeting\\CarRent.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarRent.props",
+      "PackagePath": "buildTransitive\\CarRent.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

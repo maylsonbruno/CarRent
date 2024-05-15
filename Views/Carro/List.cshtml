@@ -1,0 +1,14 @@
+﻿@model CarroListViewModel
+
+<div>
+    <h2>Todos os Carros</h2>
+</div>
+
+<dib class="container">
+    <div class="row">
+@foreach(var carro in Model.Carro)
+{
+     <partial name="_CarroResumo" for="@carro"/>
+}
+    </div>
+</dib>

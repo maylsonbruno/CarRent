@@ -1,0 +1,13 @@
+﻿@model HomeViewModel
+
+<partial name="_Carousel"/>
+
+<h2>Os melhores Carros em Estoque</h2>
+<h4> Escolha o seu</h4>
+
+<div class="row">
+    @foreach(var carro in Model.CarrosEtoque)
+    {
+        <partial name="_CarroResumo" for="@carro" />
+    }
+</div>

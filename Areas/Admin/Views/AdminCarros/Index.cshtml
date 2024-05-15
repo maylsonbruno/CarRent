@@ -1,0 +1,98 @@
+﻿@model ReflectionIT.Mvc.Paging.PagingList<CarRent.Models.Carro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Carros</h1>
+
+<form method="get" class="form-inline">
+
+    <input name="filter" class="form-control" placeholder="filtro" value="@Model.RouteValue["Filter"]"/>
+    <br />
+    <button type="submit" class="btn btn-info">Procurar</button>
+</form>
+
+Total de Carros : @Model.TotalRecordCount
+<div>
+    <vc:pager paging-list="@Model"></vc:pager>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+    <a asp-action="Create">Adicionar Carros</a> | <a asp-controller="AdminCarrosReport" asp-action="CarrosCategoriasReport">Gerar Relátorio</a> |
+        <a asp-controller="AdminCarrosReport" asp-action="CarrosCategoriasPdf">Gerar PDF</a>
+    </div>
+</div>
+<div class="row">
+   <div class="col-md-10">
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kilometragem)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatusCarro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.Estoque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marca)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kilometragem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StatusCarro)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Preco)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estoque)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Categoria.Modelo)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CarroId">Editar</a> 
+                    <a asp-action="Details" asp-route-id="@item.CarroId">Detalhes</a> 
+                    <a asp-action="Delete" asp-route-id="@item.CarroId">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+</div>
